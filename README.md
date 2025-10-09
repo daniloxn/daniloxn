@@ -2,7 +2,7 @@
 
 **`Cursando Engenharia de Software`**
 
-Me chamo Danilo Augusto dos Santos, tenho 20 anos e sou natural de Sabará-Mg. Atualmente, estou cursando Engenharia de Software na UNIFAN. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do instagram (https://www.instagram.com/dan9.x)".
+Me chamo Danilo Augusto dos Santos, tenho 20 anos e sou natural de Sabará-Mg. Atualmente, estou cursando Engenharia de Software na UNIFAN. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do instagram "[dan9.x](https://www.instagram.com/dan9.x)".
 
 <p align="left">
     <a href="https://github.com/daniloxn?tab=repositories&sort=stargazers">
@@ -61,14 +61,14 @@ Me chamo Danilo Augusto dos Santos, tenho 20 anos e sou natural de Sabará-Mg. A
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=daniloxn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloxn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
